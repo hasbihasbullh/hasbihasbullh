@@ -15,18 +15,18 @@
 
 ### 🛠 Tech Stack
 
-![HTML](https://img.shields.io/badge/HTML-05122A?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-05122A?style=flat&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript)
-![PHP](https://img.shields.io/badge/PHP-05122A?style=flat&logo=php)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-05122A?style=flat&logo=tailwindcss)
-![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=node.js)
-![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql)
-![Vercel](https://img.shields.io/badge/Vercel-05122A?style=flat&logo=vercel)
-![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)
-![VSCode](https://img.shields.io/badge/VSCode-05122A?style=flat&logo=visualstudiocode&logoColor=269FF0)
-![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux)
+![HTML](https://img.shields.io/badge/HTML-151515?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-151515?style=flat&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-151515?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-151515?style=flat&logo=typescript)
+![PHP](https://img.shields.io/badge/PHP-151515?style=flat&logo=php)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-151515?style=flat&logo=tailwindcss)
+![Node.js](https://img.shields.io/badge/Node.js-151515?style=flat&logo=node.js)
+![MySQL](https://img.shields.io/badge/MySQL-151515?style=flat&logo=mysql)
+![Vercel](https://img.shields.io/badge/Vercel-151515?style=flat&logo=vercel)
+![Git](https://img.shields.io/badge/Git-151515?style=flat&logo=git)
+![VSCode](https://img.shields.io/badge/VSCode-151515?style=flat&logo=visualstudiocode&logoColor=269FF0)
+![Linux](https://img.shields.io/badge/Linux-151515?style=flat&logo=linux)
 
 ---
 
