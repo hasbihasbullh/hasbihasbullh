@@ -30,16 +30,6 @@
 
 ---
 
-### ⚙️ GitHub Analytics
-
-<p align="left">
-  <a href="https://github.com/hasbihasbullh">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hasbihasbullh&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  </a>
-</p>
-
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
